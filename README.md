@@ -60,4 +60,4 @@ We welcome contributions! Please read our `CONTRIBUTING.md` for guidelines on ho
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Author
-This project is maintained by EngAhmedDowedar.
+This project is maintained by Eng.Ahmed Dowedar.
